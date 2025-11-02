@@ -14,7 +14,7 @@ This code snippet includes:
 
 
 **Python_model_training**</br> 
-This code snippet covers the process of building segment-specific models:
+This code snippet covers the process of building segment-specific models:</br> 
 0. Retrieving data from a database.
 1. Reducing feature dimensionality using PCA.
 2. Clustering samples based on PCA components.
