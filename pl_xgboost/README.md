@@ -7,13 +7,13 @@ This Cross-Selling Engine integrates two product-specific K-Means clustering mod
 
 
 ## 📂 Files
-**SQL_feature_engineering** 
+**SQL_feature_engineering**</br> 
 This code snippet includes:
 1. Matching future target labels to customers at specific months 
 2. deriving rolling-window features over 1M, 3M, 6M, and 12M periods
 
 
-**Python_model_training** 
+**Python_model_training**</br> 
 This code snippet covers the process of building segment-specific models:
 0. Retrieving data from a database.
 1. Reducing feature dimensionality using PCA.
