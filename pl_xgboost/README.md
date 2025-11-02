@@ -14,15 +14,15 @@ This code snippet includes:
 
 
 **Python_model_training**</br> 
-This code snippet covers the process of building segment-specific models:</br> 
-0. Retrieving data from a database.
-1. Reducing feature dimensionality using PCA.
-2. Clustering samples based on PCA components.
-3. Labeling the original dataset with KMeans segments.
-4. Splitting the data into training, validation, and test sets.
-5. Training segment-specific XGBoost models with Optuna for hyperparameter tuning.
-6. Explaining model predictions using SHAP.
-7. Evaluating model performance with metrics like F1, ROC-AUC, and PR-AUC.
-8. Creating binners for production use.
-9. Saving and loading trained models for deployment.
+This code snippet covers the process of building segment-specific models:
+1. Retrieving data from a database.
+2. Reducing feature dimensionality using PCA.
+3. Clustering samples based on PCA components.
+4. Labeling the original dataset with KMeans segments.
+5. Splitting the data into training, validation, and test sets.
+6. Training segment-specific XGBoost models with Optuna for hyperparameter tuning.
+7. Explaining model predictions using SHAP.
+8. Evaluating model performance with metrics like F1, ROC-AUC, and PR-AUC.
+9. Creating binners for production use.
+10. Saving and loading trained models for deployment.
 
