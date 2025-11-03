@@ -7,12 +7,13 @@ The pipeline embeds page names and integrates sequential features such as dwell 
 
 The model is trained efficiently using batch processing, sequence masking, and GPU-optimized techniques such as autocast and GradScaler, enabling scalable and fast experimentation.
 ##
-![Overview 1](overview1.png)  
+![Overview 1](overview1.png)
+##  
 ![Overview 2](overview2.png)
 
 
 ## 📂 Files
-**Python_model_training** 
+**Python_model_training**</br> 
 This code snippet covers the process of building a LSTM model:
 1. Sample Preprocessing: Prepare sequential and static features, apply padding, and record the actual sequence lengths.
 2. Data Splitting: Partition the dataset into training, validation, and test sets to ensure reliable model evaluation.

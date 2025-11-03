@@ -2,13 +2,12 @@
 
 ## 📝 Overview
 This data-driven strategy integrates two predictive models, a Tableau dashboard, and an automated mail system within the Customer Value Optimization (CVO) framework.
-###
 The five stages of CVO are:
-1. Identify: Embedded a real-time investment propensity model in the CRM system to help loan officers recognize high-potential customers.
-2. Engage: Focused on customers with a high likelihood of becoming affluent and guided them through post-mortgage interactions.
-3. Convert: After mortgage approval, deployed a second model leveraging application data to predict affluent potential, enabling prioritized follow-ups and timely referrals to financial consultants.
-4. Maximize: Automated the delivery of model outputs and integrated them into frontline workflows, ensuring financial consultants focus on customers with the highest potential value.
-5. Track: Built a Tableau dashboard to monitor lead conversion, frontline performance, and client asset growth, creating a continuous improvement loop. Frontline teams can also retrieve clients’ asset status directly from the CRM system.
+1. **Identify**: Embedded a real-time investment propensity model in the CRM system to help loan officers recognize high-potential customers.
+2. **Engage**: Focused on customers with a high likelihood of becoming affluent and guided them through post-mortgage interactions.
+3. **Convert**: After mortgage approval, deployed a second model leveraging application data to predict affluent potential, enabling prioritized follow-ups and timely referrals to financial consultants.
+4. **Maximize**: Automated the delivery of model outputs and integrated them into frontline workflows, ensuring financial consultants focus on customers with the highest potential value.
+5. **Track**: Built a Tableau dashboard to monitor lead conversion, frontline performance, and client asset growth, creating a continuous improvement loop. Frontline teams can also retrieve clients’ asset status directly from the CRM system.
 ##
 ![Overview](overview.png)
 
