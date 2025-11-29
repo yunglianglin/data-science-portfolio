@@ -1,4 +1,4 @@
-##  💡 Multi-Model Cross-Selling Engine for Personal Loan
+##  💡 Expanding Loan Penetration with Multi-Model Cross-Selling Engine
 
 ## 📝 Overview
 This Cross-Selling Engine integrates two product-specific K-Means clustering models and nine segment-specific XGBoost classifiers to identify high-potential leads for personal loan offers. Existing customers are first segmented into nine groups based on their product holdings and transaction behaviors. Within each segment, a dedicated XGBoost model predicts customers with a high likelihood of taking a personal loan. The resulting leads are prioritized for telemarketing outreach and targeted through personalized notifications in the mobile banking app to maximize conversion rates.
