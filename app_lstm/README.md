@@ -1,4 +1,4 @@
-##  💡 Detect Loan Intent from Mobile App Behavioral Sequences
+##  💡 Detecting Loan Intent from Behavioral Sequences in Banking App
 
 ## 📝 Overview
 Many customers lack sufficient transactional data, making traditional cross-selling models ineffective. This project introduces an LSTM-based sequential model that learns loan intent from digital behavioral patterns in clickstream data.
