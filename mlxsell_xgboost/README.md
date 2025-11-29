@@ -1,4 +1,4 @@
-##  💡 Cross-sell Investment Products to Mortgage Clients
+##  💡 Driving Wealth Management Cross-Sell in the Mortgage Customer Journey
 
 ## 📝 Overview
 This data-driven strategy integrates two predictive models, a Tableau dashboard, and an automated mail system within the Customer Value Optimization (CVO) framework.
