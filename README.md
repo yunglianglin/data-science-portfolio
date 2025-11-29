@@ -14,6 +14,7 @@ This portfolio showcases three end-to-end data science projects built from real-
 - Utilized bidirectional LSTM, attention mechanism, and MLP fusion with static features for improved accuracy.
 - Implemented GPU-optimized training with autocast and GradScaler for efficient large-scale experimentation.
 
+
 ### Driving Wealth Management Cross-Sell in the Mortgage Customer Journey
 🎯 **Goal**
 - Enable post-mortgage cross-selling of investment products through predictive modeling and automation.
@@ -24,6 +25,7 @@ This portfolio showcases three end-to-end data science projects built from real-
 - Automated data pipelines and lead delivery to frontline CRM and mail systems.
 - Developed a Tableau dashboard to monitor conversions, asset growth, and consultant performance.
 
+
 ### Expanding Loan Penetration with Multi-Model Cross-Selling Engine
 🎯**Goal**
 - Identify high-potential customers for personal loans through segmentation and predictive modeling.
@@ -33,6 +35,7 @@ This portfolio showcases three end-to-end data science projects built from real-
 - Built segment-specific XGBoost classifiers to predict loan propensity.
 - Employed PCA for dimensionality reduction and Optuna for hyperparameter optimization.
 - Integrated lead scoring outputs into telemarketing workflows and mobile app notifications to boost conversion rates.
+
 
 ## 🧩 Tech Stack
 1. Languages: Python, SQL
