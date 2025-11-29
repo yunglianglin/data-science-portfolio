@@ -4,7 +4,7 @@ This portfolio showcases three end-to-end data science projects built from real-
 ###
 
 ## 📂 Projects
-### Detect Loan Intent from Mobile App Behavioral Sequences
+### Detecting Loan Intent from Behavioral Sequences in Banking App
 🎯 **Goal**
 - Leverage customer digital footprints to predict loan intent in the absence of rich transactional data.
 
@@ -14,7 +14,7 @@ This portfolio showcases three end-to-end data science projects built from real-
 - Utilized bidirectional LSTM, attention mechanism, and MLP fusion with static features for improved accuracy.
 - Implemented GPU-optimized training with autocast and GradScaler for efficient large-scale experimentation.
 
-### Cross-sell Investment Products to Mortgage Clients
+### Driving Wealth Management Cross-Sell in the Mortgage Customer Journey
 🎯 **Goal**
 - Enable post-mortgage cross-selling of investment products through predictive modeling and automation.
 
@@ -24,7 +24,7 @@ This portfolio showcases three end-to-end data science projects built from real-
 - Automated data pipelines and lead delivery to frontline CRM and mail systems.
 - Developed a Tableau dashboard to monitor conversions, asset growth, and consultant performance.
 
-### Multi-Model Cross-Selling Engine for Personal Loan
+### Expanding Loan Penetration with Multi-Model Cross-Selling Engine
 🎯**Goal**
 - Identify high-potential customers for personal loans through segmentation and predictive modeling.
 
